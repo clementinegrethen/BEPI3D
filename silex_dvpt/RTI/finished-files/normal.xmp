@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rti="http://culturalheritageimaging.org/resources/ns/rti/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+  <rdf:Description rdf:about="">
+    <xmp:CreatorTool>http://culturalheritageimaging.org/resources/tools/RTIViewer/1.1.0</xmp:CreatorTool>
+    <xmp:CreateDate>2018-12-03T16:30:44</xmp:CreateDate>
+    <rti:RTIImage rdf:parseType="Resource">
+      <dc:source>D:/rti_a_traiter/3/finished-files/3.ptm</dc:source>
+      <dc:format>image/x-rti-lrgb-ptm</dc:format>
+      <rti:Size>
+        <stDim:w>3456</stDim:w>
+        <stDim:h>2304</stDim:h>
+        <stDim:unit>pixel</stDim:unit>
+      </rti:Size>
+    </rti:RTIImage>
+    <rti:Snapshot>
+      <dc:Identifier>uuid:5e3b2977-9308-4feb-ad72-d1965eea38f8</dc:Identifier>
+      <rti:Size>
+        <stDim:w>3456</stDim:w>
+        <stDim:h>2304</stDim:h>
+        <stDim:unit>pixel</stDim:unit>
+      </rti:Size>
+      <rti:RenderingInfo rdf:parseType="Resource">
+        <rti:Zoom>36.9792</rti:Zoom>
+        <rti:Pan rdf:parseType="Resource">
+          <rti:x>0</rti:x>
+          <rti:y>0</rti:y>
+        </rti:Pan>
+        <rti:Incidence rdf:parseType="Resource">
+          <rti:x>-0.247598</rti:x>
+          <rti:y>0.968863</rti:y>
+        </rti:Incidence>
+        <rti:RenderingMode rdf:parseType="Resource">
+          <!--0=DEFAULT,
+1=DIFFUSE_GAIN,
+2=SPECULAR_ENHANCEMENT,
+3=NORMAL_ENHANCEMENT,
+4=UNSHARP_MASKING_IMG,
+5=UNSHARP_MASKING_LUM,
+6=COEFF_ENHANCEMENT,
+7=DETAIL_ENHANCEMENT,
+8=DYN_DETAIL_ENHANCEMENT
+9=NORMALS_VISUALIZATION-->
+          <rti:RenderingModeID>9</rti:RenderingModeID>
+        </rti:RenderingMode>
+      </rti:RenderingInfo>
+    </rti:Snapshot>
+  </rdf:Description>
+</rdf:RDF>
