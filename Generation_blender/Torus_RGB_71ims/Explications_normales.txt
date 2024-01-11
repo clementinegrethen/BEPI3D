@@ -1,0 +1,2 @@
+Normal_1 : même repère que pour les rayons données avec donc le Rouge pour le X vers la droite, le Vert pour le Y vers le haut et le Bleu pour la direction Z qui va vers la caméra.
+Normal_2 : normalement même repère que les traitements d'images avec le Rouge pour le X vers la droite, le Vert pour le Y vers le bas et le Bleu pour la direction Z qui va vers le fond (sens opposé à la caméra).
