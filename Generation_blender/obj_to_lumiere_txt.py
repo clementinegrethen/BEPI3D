@@ -47,7 +47,7 @@ class Obj_2_Lum_txt:
 
 def main():
 
-    transformer = Obj_2_Lum_txt("./Torus_R&B/Geometrie_dome.obj","./lumiere_torusR&B.txt","Torus_R&B/")
+    transformer = Obj_2_Lum_txt("./Torus_RGB_71ims/Geometrie_dome.obj","./lumiere_torusRGB_71ims.txt","Torus_RGB_71ims/")
     transformer.read_lines()
     del transformer
 
