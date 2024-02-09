@@ -1,7 +1,7 @@
 # Projet  Partie Classification de Matériaux
 
-# Auteur: @clementinegrethen
-# Auteur: @leomeissner00
+## Auteur: @clementinegrethen
+## Auteur: @leomeissner00
 
 ## Organisation des dossiers 
 Voici la partie du BE concernant la classification des matériaux constituant un objet
