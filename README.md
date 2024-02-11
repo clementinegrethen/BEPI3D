@@ -17,7 +17,7 @@ Le RTI contient les données utilisées lors du BE:
 
 #### Code à lancer
 - OrenNayar_model.m : Code main à lancer pour calculer le modèle d'Oren-Nayar. Il faut adapter les path des images/mask/lumiere. Structure du code :<br>
-                      1 - 89 : Initialisation des paramètres et import des données<br>
+                          1 - 89 : Initialisation des paramètres et import des données<br>
                       91 - 94 : Modèle Lambertien<br>
                       110 - 132 : Boucle principale sur sigma et nb_iterations<br>
                       134 - 147 : Nuance de gris --> RGB<br>
