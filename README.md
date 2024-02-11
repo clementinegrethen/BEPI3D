@@ -16,13 +16,13 @@ Le RTI contient les données utilisées lors du BE:
 - Xon.m : Calcul de Xon (cf présentation dans la branche main)
 
 #### Code à lancer
-- OrenNayar_model.m : Code main à lancer pour calculer le modèle d'Oren-Nayar. Il faut adapter les path des images/mask/lumiere. Structure du code :
-                      1 - 89 : Initialisation des paramètres et import des données
-                      91 - 94 : Modèle Lambertien
-                      110 - 132 : Boucle principale sur sigma et nb_iterations
-                      134 - 147 : Nuance de gris --> RGB
-                      149 - 152 : Images vectorisées --> Taille initiale
-                      154 - 166 : Enregistrement des données affichables dans un .mat
+- OrenNayar_model.m : Code main à lancer pour calculer le modèle d'Oren-Nayar. Il faut adapter les path des images/mask/lumiere. Structure du code :<br>
+                      1 - 89 : Initialisation des paramètres et import des données<br>
+                      91 - 94 : Modèle Lambertien<br>
+                      110 - 132 : Boucle principale sur sigma et nb_iterations<br>
+                      134 - 147 : Nuance de gris --> RGB<br>
+                      149 - 152 : Images vectorisées --> Taille initiale<br>
+                      154 - 166 : Enregistrement des données affichables dans un .mat<br>
 - ON_visualization.m : Visualisation de courbes et de résultats du modèle
 
 ## Références
